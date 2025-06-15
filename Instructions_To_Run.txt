@@ -1,0 +1,3 @@
+Run ui_loan.py to run the streamlit app
+
+---- al explain approach is in loan_project Notebook
